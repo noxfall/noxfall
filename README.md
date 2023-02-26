@@ -1,5 +1,6 @@
-<div style="width: 100% text-align: center"></div>
-
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/118026646/221423836-fbe9245a-0f41-4015-858c-d38f58d682ae.svg" alt="logo">
+</h1>
 
 ```solidity
 
