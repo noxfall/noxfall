@@ -5,8 +5,8 @@ pragma solidity ^0.8.16;
 
 import '@openzeppelin/contracts/access/Employable.sol';
 
-contract KainNoxfall is WebDeveloper {
-    string public constant fullName    = "Kain Noxfall";
+contract MilosGeorgiev is WebDeveloper {
+    string public constant fullName    = "Milos Georgiev";
     string public constant type        = "Web Developer";
     string public constant company     = "Noxfall Labs, Inc.";
     string public constant address     = "Novi Sad, Serbia";
