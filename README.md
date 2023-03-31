@@ -13,7 +13,7 @@ contract MilosGeorgiev is WebDeveloper {
     string public constant type        = "Web Developer";
     string public constant company     = "Noxfall Labs, Inc.";
     string public constant address     = "Novi Sad, Serbia";
-    string public constant portfolio   = ""; 
+    string public constant portfolio   = "https://noxfall.github.io/"; 
 }
 
 constructor(string memory _techStack) public onlyEmployer {
